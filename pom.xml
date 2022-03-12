@@ -13,6 +13,13 @@
             <artifactId>spring-webmvc</artifactId>
             <version>4.3.18.RELEASE</version>
         </dependency>
+
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>8.0.28</version>
+        </dependency>
+
     </dependencies>
 
     <properties>
